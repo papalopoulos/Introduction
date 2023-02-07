@@ -1,8 +1,7 @@
-# **Sample projects run**
-## PYTHON BASED SAMPLE
-#### **Problem to be solved (Taken from DataCamp)**
+# **PYTHON BASED EXAMPLE**
+## **Problem to be solved (Taken from DataCamp)**
 Create a function that receives a list of strings that are arithmetic problems and returns the problems arranged vertically and side-by-side. The function should optionally take a second argument. When the second argument is set to True, the answers should be displayed.
-#### **Rules towards a correct solution**
+### **Rules towards a correct solution**
 The function will return the correct conversion if the supplied problems are properly formatted, otherwise, it will return a string that describes an error that is meaningful to the user.
 * Situations that will return an error:
 
